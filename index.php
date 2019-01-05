@@ -1,4 +1,5 @@
 <?php 
+require 'date.php';
 echo "In the name of him";
 // You must have a loop
 for ($i=0; $i < 3; $i++) {
