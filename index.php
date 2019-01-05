@@ -1,5 +1,5 @@
 <?php 
-// echo "hello world";
+echo "In the name of him";
 // You must have a loop
 for ($i=0; $i < 3; $i++) {
 	switch ($i) {
